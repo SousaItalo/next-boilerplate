@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Main /> should render the heading 1`] = `
+<main
+  class="styles__Wrapper-sc-1fpvr54-0 UWUgU"
+>
+  <img
+    alt="NextJs logo"
+    class="styles__Logo-sc-1fpvr54-1 gmOnJc"
+    src="/img/logo.svg"
+  />
+  <h1
+    class="styles__Title-sc-1fpvr54-2 fLuKZN"
+  >
+    NextJs Boilerplate
+  </h1>
+  <h2
+    class="styles__Description-sc-1fpvr54-3 hpoLuu"
+  >
+    A boilerplate project to work with TypeScript, ReactJs, NextJs
+  </h2>
+  <img
+    class="styles__Illustration-sc-1fpvr54-4 fzGuyc"
+    src="/img/hero-illustration.svg"
+  />
+</main>
+`;
